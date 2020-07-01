@@ -13,10 +13,6 @@ S3_SECRET_ACCESS_KEY = 'minioadmin'
 LOCAL_DIR = '/tmp'
 
 
-# S3_ENDPOINT = ''
-# S3_ACCESS_KEY_ID = 'AKIAQPAXNKJ2Q6THS23X'
-# S3_SECRET_ACCESS_KEY = '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'
-
 
 def setup_logging():
     global logger
